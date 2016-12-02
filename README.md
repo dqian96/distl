@@ -2,6 +2,8 @@
 
 distl provides the client with a “distilled” version of articles as they browse the web. The client has to do very little - distl automatically extracts relevant text from a webpage and gives back a summarized version with sentiment analysis.
 
+### Components:
+
 HTML/CSS/JS Frontend:
 
 * Beautifully designed
